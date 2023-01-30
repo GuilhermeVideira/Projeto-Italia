@@ -27,7 +27,7 @@ Este foi o meu PRIMEIRO projeto desenvolvido! Devido isso, o site não é respon
 
 💳 Informações sobre a cidadania do país
 
-👅 Qual é o indioma falado no país
+👅 Qual é o indioma do país
 
 #
 
